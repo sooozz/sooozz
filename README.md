@@ -10,7 +10,7 @@
   
   
 ## 2. 주요기능
-![image](https://user-images.githubusercontent.com/106249108/196307882-acd19216-c305-48fd-9934-202adbded509.png)
+![image](https://user-images.githubusercontent.com/106249108/196309625-0e7672eb-6768-4df1-9032-29425839bd18.png)
 
 
 * 카테고리별 식메뉴/영양보충제 추천(콘텐츠기반 필터링)
@@ -64,7 +64,7 @@
 ![image](https://user-images.githubusercontent.com/106305465/183537201-c843b6de-49a8-4e9b-a5a2-b1be243541e6.png)
 
 ### 추천알고리즘 ( 메뉴/영양보충제/디저트랜덤뽑기)
-![image](https://user-images.githubusercontent.com/106305465/183537273-fffa16b9-8c2f-412d-990c-80a6880f59f4.png)
+![image](https://user-images.githubusercontent.com/106249108/196309473-9606dee2-9441-479a-9de3-791d3c7058d4.png)
 
 ### 실시간 1:1 채팅
 ![image](https://user-images.githubusercontent.com/106305465/183537591-42325893-175d-485f-915a-cd010a4e8b0c.png)
@@ -75,16 +75,16 @@
 <br>
 
 ## 8. 팀원단위 업무분장
-![image](https://user-images.githubusercontent.com/106305465/183547757-96eccdc4-6d6b-405d-82d1-124e96dccb7a.png)
+![image](https://user-images.githubusercontent.com/106249108/196310251-69c9a6f7-0720-4353-b12e-2303cf8a5925.png)
 <br>
 
 ## 9. 트러블슈팅
 
 ### Flask 서버 구축
-![image](https://user-images.githubusercontent.com/106305465/183547699-06279335-cfb5-44c5-9745-2df309094e5f.png)
+![image](https://user-images.githubusercontent.com/106249108/196310078-ed04b830-05f4-4e2e-b26a-ed4ad9f5e42e.png)
 
 ### BootStrap 충돌문제
-### ![image](https://user-images.githubusercontent.com/106305465/183547730-a0332fcc-037a-4e9c-9b1a-456627ed0641.png)
+![image](https://user-images.githubusercontent.com/106249108/196310160-535f3e84-75e6-460b-abd8-8b5a745e5490.png)
 <br>
 
 ## 10. 시연영상
